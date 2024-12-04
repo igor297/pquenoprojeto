@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "joao igor",
+    "email": "carlos.pereira@exemplo.com",
+    "data_nascimento": "1111-11-11",
+    "genero": "M",
+    "cpf": "2222222",
+    "tipo_usuario_id": "1"
+  },
+  {
+    "id": 2,
+    "nome": "eliana silva",
+    "email": "laura.fernandes@exemplo.com",
+    "data_nascimento": "1111-11-11",
+    "genero": "M",
+    "cpf": "111111111",
+    "tipo_usuario_id": "1"
+  }
+]
